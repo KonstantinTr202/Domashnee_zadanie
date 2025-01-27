@@ -1,0 +1,14 @@
+C:\Users\kosta\source\repos\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.exe
+C:\Users\kosta\source\repos\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.deps.json
+C:\Users\kosta\source\repos\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.runtimeconfig.json
+C:\Users\kosta\source\repos\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.dll
+C:\Users\kosta\source\repos\Zadanie1\Zadanie1\bin\Debug\net8.0\Zadanie1.pdb
+C:\Users\kosta\source\repos\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.AssemblyInfo.cs
+C:\Users\kosta\source\repos\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.dll
+C:\Users\kosta\source\repos\Zadanie1\Zadanie1\obj\Debug\net8.0\refint\Zadanie1.dll
+C:\Users\kosta\source\repos\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.pdb
+C:\Users\kosta\source\repos\Zadanie1\Zadanie1\obj\Debug\net8.0\Zadanie1.genruntimeconfig.cache
+C:\Users\kosta\source\repos\Zadanie1\Zadanie1\obj\Debug\net8.0\ref\Zadanie1.dll
